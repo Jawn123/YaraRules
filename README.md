@@ -1,4 +1,4 @@
 YaraRules
 =========
 
-Yara rules to rule them all.
+Some code to rule them all.
